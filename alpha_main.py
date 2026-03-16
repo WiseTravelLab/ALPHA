@@ -1,4 +1,4 @@
-# ALPHA: Attribute-augmented Lightweight Privacy-preserving Hybrid Attentive network for Tourism Recommendation
+# ALPHA: Attribute-augmented Lightweight Prompt-based Hybrid Attentive network for Privacy-preserving Tourism Recommendation
 # Tensorflow v1 implementation (tensorflow-gpu=1.13.0)
 # Updated version: Pre-training + Prompt-tuning with Linear Cross-Attention
 
